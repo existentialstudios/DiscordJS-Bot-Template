@@ -1,0 +1,5 @@
+{
+	"clientId": "your-apps-client-id-from-discord-dev-portal",
+	"guildId": "guild-or-server-id",
+    "token": "your-bots-unique-token-from-discord-dev-portal"
+}
