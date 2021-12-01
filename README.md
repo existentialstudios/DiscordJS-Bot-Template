@@ -1,5 +1,6 @@
 # DiscordJS-Bot-Template
 A starting point for your first Discord.JS Bot
+Built from the Discord.JS Guide.
 
 ## Configuration
 In discord developer portal, create an app. Once create not the values you'll need for the config below,
@@ -18,4 +19,4 @@ choose a server(guild) to deploy to.
 You can bring the bot online by running "node index.js"
 
 ## Commands
-Each command is its own file. The commands folder gets read in and any .js in the folder is treated as a command
+Each command is its own file. The commands folder gets read in and any .js files in the folder are treated as individual commands.
