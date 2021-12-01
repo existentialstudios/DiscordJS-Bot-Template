@@ -16,3 +16,6 @@ Generate Oauth2 urls for your bot (specifically application.commands & bot) and
 assign your bot permissions (Administrator). Copy the link, paste it in browser,
 choose a server(guild) to deploy to.
 You can bring the bot online by running "node index.js"
+
+## Commands
+Each command is its own file. The commands folder gets read in and any .js in the folder is treated as a command
