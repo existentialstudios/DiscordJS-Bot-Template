@@ -26,3 +26,4 @@ You can bring the bot online by running "node index.js"
 ## Commands
 
 Each command is its own file. The commands folder gets read in and any .js files in the folder are treated as individual commands.
+Run "node deploy-commands.js" whenever you add new commands.
