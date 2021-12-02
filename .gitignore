@@ -118,4 +118,4 @@ dist
 .pnp.*
 
 # misc config
-./config.json
+.config.json
